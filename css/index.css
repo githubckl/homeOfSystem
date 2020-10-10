@@ -1,0 +1,49 @@
+.ppxt-li {
+    display: table;
+    padding-top: 30px;
+}
+
+.zzxtxz-li {
+    /*display: table;*/
+    padding: 16px 0;
+}
+
+.ppxt-text {
+    padding: 4px 0;
+}
+
+.middle-line {
+    height: 1px;
+    margin-top: 35px;
+    margin-bottom: 33px;
+    background-position: 0 -28px;
+    background-repeat: repeat-x;
+    background-image: url(../img/sp_1.png)
+}
+
+.rank-win10 {
+    background: #c7c7c7;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin-right: 5px;;
+    width: 20px;
+    background-color: #b1b1b1;
+    height: 20px;
+    line-height: 20px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #358ff0
+}
