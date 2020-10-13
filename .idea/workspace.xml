@@ -68,12 +68,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webstorm\homeOfSystem\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\webstorm\homeOfSystem\img" />
       <recent name="E:\webstorm\homeOfSystem\js" />
-      <recent name="E:\webstorm\homeOfSystem\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\webstorm\homeOfSystem\css" />
     </key>
   </component>
@@ -105,7 +105,7 @@
       <workItem from="1602234123017" duration="603000" />
       <workItem from="1602234988749" duration="768000" />
       <workItem from="1602288372118" duration="442000" />
-      <workItem from="1602553698774" duration="4970000" />
+      <workItem from="1602553698774" duration="5935000" />
     </task>
     <task id="LOCAL-00001" summary="CSS">
       <created>1601186511814</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602558347379</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="CSS">
+      <created>1602559009387</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602559009387</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,10 +307,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="207" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601279308118" />
-    <state x="1031" y="193" key="Vcs.Push.Dialog.v2" timestamp="1602558348698">
+    <state x="1031" y="193" key="Vcs.Push.Dialog.v2" timestamp="1602559010752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1031" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602558348698" />
+    <state x="1031" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602559010752" />
     <state x="1234" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601197873539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
