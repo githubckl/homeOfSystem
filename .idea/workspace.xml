@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6928d7da-a68a-44a7-8592-75f591a6a816" name="Default Changelist" comment="CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -69,6 +68,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webstorm\homeOfSystem\img" />
       <recent name="E:\webstorm\homeOfSystem\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -105,7 +105,7 @@
       <workItem from="1602234123017" duration="603000" />
       <workItem from="1602234988749" duration="768000" />
       <workItem from="1602288372118" duration="442000" />
-      <workItem from="1602553698774" duration="5935000" />
+      <workItem from="1602553698774" duration="7759000" />
     </task>
     <task id="LOCAL-00001" summary="CSS">
       <created>1601186511814</created>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602559009387</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CSS">
+      <created>1602559918072</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602559918072</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,10 +314,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="207" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601279308118" />
-    <state x="1031" y="193" key="Vcs.Push.Dialog.v2" timestamp="1602559010752">
+    <state x="1031" y="193" key="Vcs.Push.Dialog.v2" timestamp="1602559919944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1031" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602559010752" />
+    <state x="1031" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602559919944" />
     <state x="1234" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601197873539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
